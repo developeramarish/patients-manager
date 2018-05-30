@@ -1,4 +1,12 @@
-## WCF Account Check
-![Screenshot](https://raw.githubusercontent.com/sayfessyd/VB-CS-projects/master/WCF%20Account%20Check/wcf.PNG)
-![Screenshot2](https://raw.githubusercontent.com/sayfessyd/VB-CS-projects/master/WCF%20Account%20Check/server.PNG)
-![Screenshot3](https://raw.githubusercontent.com/sayfessyd/VB-CS-projects/master/WCF%20Account%20Check/client.PNG)
+## Patient Manager
+ASP.NET web application that allows the patients management of a doctor's office.
+### Technologies
+- ASP.NET WebAPI
+- ASP.NET Entity Framework
+- VUE.js 2.x
+### Screenshots
+![Screenshot1](https://raw.githubusercontent.com/sayfessyd/patients-manager/master/screenshots/Screenshot1.png)
+![Screenshot2](https://raw.githubusercontent.com/sayfessyd/patients-manager/master/screenshots/Screenshot2.png)
+![Screenshot3](https://raw.githubusercontent.com/sayfessyd/patients-manager/master/screenshots/Screenshot3.png)
+![Screenshot4](https://raw.githubusercontent.com/sayfessyd/patients-manager/master/screenshots/Screenshot4.png)
+![Screenshot5](https://raw.githubusercontent.com/sayfessyd/patients-manager/master/screenshots/Screenshot5.png)
