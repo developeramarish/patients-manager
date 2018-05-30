@@ -1,7 +1,7 @@
 ## Patient Manager
 ASP.NET web application that allows the patients management of a doctor's office.
 ### Technologies
-- ASP.NET Web API
+- ASP.NET Web API (MVC and Repository patterns)
 - ASP.NET Entity Framework
 - VUE.js 2.x
 ### Screenshots
