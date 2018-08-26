@@ -1,5 +1,5 @@
 ## Patient Manager
-ASP.NET web application that allows patients, appointments and accounting management of a doctor's office. 
+It's an ASP.NET web application that allows patients, appointments and accounting management of a doctor's office. 
 ### Technologies
 - ASP.NET Web API (MVC and Repository patterns)
 - ASP.NET Entity Framework
