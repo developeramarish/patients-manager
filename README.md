@@ -3,7 +3,7 @@ It's an ASP.NET web application that allows patients, appointments and accountin
 ### Technologies
 - ASP.NET Web API (MVC and Repository patterns)
 - ASP.NET Entity Framework
-- VUE.js 2.x
+- VUE.js 2
 ### Screenshots
 ![Screenshot1](https://raw.githubusercontent.com/sayfessyd/patients-manager/master/screenshots/Screenshot1.png)
 ![Screenshot2](https://raw.githubusercontent.com/sayfessyd/patients-manager/master/screenshots/Screenshot2.png)
